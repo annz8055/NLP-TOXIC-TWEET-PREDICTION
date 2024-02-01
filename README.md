@@ -1,5 +1,7 @@
 # NLP-TOXIC-TWEET-PREDICTION
 Use NLP and ML to make a model to identify toxic and non-toxic tweets.
+
+
 Steps
 1.	Load the tweets file using the read_csv function from the Pandas package.
 (downloaded from https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset.)
